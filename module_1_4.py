@@ -1,0 +1,7 @@
+my_string = input("Какое время года вы любите? ")
+print(my_string .upper())
+print(my_string.lower())
+print(len(my_string))
+print("Какое время года вы любите?".replace(" ", ""))
+print(my_string[0])
+print(my_string[-1])
